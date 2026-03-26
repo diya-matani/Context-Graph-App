@@ -62,4 +62,4 @@ The system uses a **Two-Pass Pipeline**:
    ```bash
    npm run dev
    ```
-   Open [http://localhost:3000](http://localhost:3000).
+Open [https://context-graph-app.vercel.app/](https://context-graph-app.vercel.app/).
