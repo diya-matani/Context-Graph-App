@@ -33,6 +33,7 @@ next-env.d.ts
 # sqlite
 *.db
 *.sqlite3
+!o2c_graph.db
 
 # database data
 sap-o2c-data/

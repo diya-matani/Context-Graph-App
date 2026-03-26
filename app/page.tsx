@@ -27,7 +27,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="h-screen overflow-hidden bg-slate-50 flex flex-col font-sans">
+    <main className="min-h-screen bg-slate-50 flex flex-col font-sans">
       <header className="bg-white border-b border-slate-200 px-6 py-4 flex items-center justify-between shadow-sm z-10">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center shadow-lg shadow-blue-500/30">
